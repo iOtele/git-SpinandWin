@@ -1,0 +1,10 @@
+#main-container{
+  place-items: center center ;
+}
+#sign-in-form{
+  max-width: 350px;
+}
+.monster-can-img{
+  width:80px;
+  height: 200px;
+}
