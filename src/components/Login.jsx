@@ -108,7 +108,7 @@ function Login() {
         <div id="label-color" className="mb-3">
           <Form.Check
             required
-            label=" I'm 18 years old and above"
+            label=" I'm 18 years old & above"
             feedback="You must agree before submitting."
             feedbackType="invalid"
             name="checkAge"
